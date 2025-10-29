@@ -77,5 +77,20 @@
       <li><b>Boolean</b>: has two possible values (true / false)</li>
    </ul>
 </p>
+<p>
+   <b>Variables-Storing Data in Memory</b>
+   <ul>
+      <li>Data can be stored either <b>permanently</b> / <b>temporary</b></li>
+      <li>Variable name in Javascript code are <b>sensitive</b></li>
+      <dd>Can't use <b>reserved words</b></dd>
+      <b>Invalid names include:</b>
+      <ul>
+      <li>with</li>
+      <li>99variable</li>
+      <li>my%variable</li>
+      <li>theGood&theBad</li>
+      </ul>
+   </ul>
+</p>
 <p>🔗 Folder: <a href="03-Chapter1(IntroToJavascriptAndTheWeb)">Chapter1</a> </p>
    
