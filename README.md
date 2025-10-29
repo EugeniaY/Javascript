@@ -19,5 +19,5 @@
       <li>In ch1_example3 it shows how to write Hello World using JavaScript</li>
    </ul>
 </p>
-<p>🔗 Folder: <a href="url">Chapter1</a> </p>
+<p>🔗 Folder: <a href="03-Chapter1(IntroToJavascriptAndTheWeb)">Chapter1</a> </p>
    
