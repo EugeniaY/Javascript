@@ -1,6 +1,16 @@
 # Javascript
 
-<h3>🔄 How To Push in Github</h3>
+<h3>🔄 How to Push in Github (For the First Time)</h3>
+<ol>
+   <li>git init</li>
+   <li>git add .</li>
+   <li>git commit -m "First commit – upload HTML, CSS, JS files"</li>
+   <li>git branch -M main</li>
+   <li>git remote add origin https://github.com/"...".git</li>
+   <li>git push -u origin main</li>
+</ol>
+
+<h3>🔄 How To Push in Github (For Updating)</h3>
 <ol>
    <li>git add .</li>
    <li>git commit -m "Update progress for Chapter X"</li>
